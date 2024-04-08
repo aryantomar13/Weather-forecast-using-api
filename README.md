@@ -52,10 +52,10 @@ Clone the repository unto your local machine cd to the folder.
 
 ## Author
 
-👤 Aryan Tomar
-- Github: [@aryantomar13](https://github.com/aryantomar13) 
+👤 DEVANSH
+- Github: [@devansh-abes](https://github.com/devansh-abes) 
 
-- Linkedin: [Aryan Tomar](https://www.linkedin.com/in/aryan-tomar-2259a9143/) 
+- Linkedin: [Devansh.](https://www.linkedin.com/in/devansh-33871424a/) 
 
 ## Show your support
 
